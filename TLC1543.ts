@@ -8,7 +8,7 @@
  */
 //% weight=5 color=#0fbc11 icon="\uf113"
 namespace AlphaBot2 {
-    //% blockId=AlphaBot2_AnalogRead block="AnalogRead"
+    //% blockId==AlphaBot2 block="AnalogRead"
     //% weight=80 advanced=true
     export function AnalogRead(): number[] {
         let i = 0;
